@@ -1,0 +1,45 @@
+
+.offer {
+  text-align: center;
+}
+
+
+.card {
+  width: 400px;
+  height: 500px;
+  box-shadow: 0 0 2px black;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin: 10px 10px;
+}
+
+.card h2{
+  margin-top: 10px;
+}
+
+.data {
+  background-color: #009DCC;
+  color:white;
+
+}
+
+.bbox h6{
+  background-color: #EDA0D4;
+  color:white;
+}
+
+.price {
+  color:#EDA0D4;
+  height: 131px;
+  border-bottom: solid #009DCC;
+}
+
+.price h2{
+  color:#EDA0D4;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+}
